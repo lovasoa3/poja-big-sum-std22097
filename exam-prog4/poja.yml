@@ -1,5 +1,5 @@
-app_name: poja-big-sum-std22105
-cli_version: 9.0.0
+app_name: poja-big-sum-STD22107
+cli_version: 9.0.2
 custom_java_deps: poja-custom-java-deps.txt
 custom_java_env_vars: poja-custom-java-env-vars.txt
 custom_java_repositories: poja-custom-java-repositories.txt
